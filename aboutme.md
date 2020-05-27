@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Luôn mỉm cười may mắn tự nhiên đến
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mình tên là Nguyễn Trọng Thiệp, hiện tại đang làm Sysad cho một hệ thống nho nhỏ trong ngành du lịch. Gặp đúng dịp covid này khiến mình quyết tâm thay đổi con đường sự nghiệp phía trước sang lập trình viên. Nếu bạn có cùng đam mê với ngôn ngữ lập trình Python và các ứng dụng của AI như mình, hãy theo dõi trang này của mình nhé
 
 - I rock a great mustache
 - I'm extremely loyal to my family
