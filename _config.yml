@@ -13,10 +13,10 @@ author: Nguyen Thiep
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Python Basic:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Python & ML: "https://deanattali.com"
 
 # --- Logo --- #
 
