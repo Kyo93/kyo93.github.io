@@ -14,7 +14,7 @@ author: Nguyen Thiep
 navbar-links:
   About Me: "aboutme"
   Python Basic:
-    - Beautiful Jekyll: "2020-02-26-flake-it-till-you-make-it.md"
+    - Beautiful Jekyll: "2020-02-26-flake-it-till-you-make-it"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Python & ML: "https://deanattali.com"
 
