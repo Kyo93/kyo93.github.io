@@ -17,5 +17,5 @@ Trước tiên, chúng ta hãy tìm hiểu về Git trước. Với các loại 
 
 Chưa hết, bạn còn muốn biết rằng file này do ai chỉnh sửa, sửa dòng nào, sửa từ cái gì thành cái gì... Những thứ này thì tính năng sao lưu mặc định của macOS và Windows không làm được, vì đơn giản chúng không phải được xây dựng nên để dành cho mục đích phát triển phần mềm. Máy tính cá nhân của bạn thì chỉ 1 mình bạn dùng, nhưng 1 dự án phần mềm có nhiều người, thậm chí cả trăm người, cùng tham gia phát triển là chuyện bình thường. Chưa kể có nhiều thứ mà người này phải vào chỉnh sửa code của người kia nữa, mọi thứ sẽ rối rắm hơn khi có nhiều bên cùng tham gia.
 
-![Github vs Gitlab](D:\03.Workplace\PycharmProject\kyo93.github.io\kyo93.github.io\assets\img\4890110_github_pull.jpg){: .mx-auto.d-block :}
+![Github vs Gitlab](https://kyo93.github.io\assets\img\4890110_github_pull.jpg){: .mx-auto.d-block :}
 
