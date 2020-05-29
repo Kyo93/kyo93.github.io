@@ -26,3 +26,14 @@ Chưa hết, bạn còn muốn biết rằng file này do ai chỉnh sửa, sử
 Hai dịch vụ này cũng cung cấp một giao diện web để bạn xem code hiện tại của mình, xem lại những chỉnh sửa với file, xem lại các lần chỉnh sửa để ra mắt phần mềm... Với các dự án mã nguồn mở, một người nào đấy ở bất kì nơi nào trên thế giới có thể đóng góp tính năng, giúp sửa lỗi vào dự án của bạn. Họ có thể upload code mới lên, bạn sẽ nhận được thông báo, bạn có thể kiểm tra xem code này chạy đúng hay không, rồi chấp nhận đưa code đó vào dự án chính... Những thứ này nếu xài chỉ dùng Git truyền thống thì cực hơn, nếu không có GitHub thì bạn phải tự download mã nguồn về, chỉnh sửa, gửi email qua lại cho chủ nhân của dự án, rồi sau đó lại trộn code với nhau. Cơ bản là cực lắm.
 
 ![App pull](https://kyo93.github.io\assets\img\4890121_git_hub_app.jpg){: .mx-auto.d-block :}
+
+Hiện tại Tinh tế dùng GitLab, nhưng không phải dùng bản cloud do GitLab duy trì mà tự cài đặt GitLab lên server của tụi mình. Một số công ty khác mình từng hợp tác thì xài thẳng GitLab trên mây, hoặc GitHub nếu chịu chi. Tất nhiên các dự án khi upload lên đều được bảo mật, hoặc bạn có thể mở nó ra cho tất cả mọi người cùng xem cũng được luôn, tùy bản chất dự án.
+
+Người ta thường dùng Git để lưu trữ code, nhưng nó có thể theo dõi thay đổi của rất nhiều loại file, ví dụ như file Word, file Final Cut... Chỉ là đây không phải cách tốt nhất để sao lưu file của bạn nhé. Git không sinh ra dành cho mục đích đó, nếu để sao lưu thì bạn có Google Drive, Dropbox, OneDrive... sẽ hiệu quả và dễ sử dụng hơn.
+
+GitHub và GitLab sau này còn mở rộng thêm các chức năng giúp tự động triển khai code lên máy chủ, cho phép chia tách việc triển khai code bản test và bản chính thức... Những thứ này giúp tiết kiệm nhiều thời gian cho nhà phát triển phần mềm, và làm cho mọi việc trở nên dễ dàng hơn, hạnh phúc hơn.
+
+Việc hiểu và biết sử dụng Git là một yêu cầu bắt buộc với bất kì bạn nào làm trong ngành công nghệ, dù bạn code nhiều hay ít thì cũng đều phải biết dùng Git, và đặc biệt là nên dùng quen GitHub hoặc GitLab. Khi bạn đi xin việc mà biết những thứ này thì bạn sẽ có lợi thế, khi bắt tay vào việc cũng thích nghi nhanh hơn và dễ dàng làm việc cùng các đồng nghiệp. Trường mình ngày xưa mình học đã bắt đầu dạy Git cho sinh viên từ năm 1 hoặc 2 rồi (tùy bạn đó chọn môn vào học kì nào).
+
+Chúc anh em vui vẻ, rảnh rỗi ở nhà nghịch GitHub hoặc GitLab đi nha. Google cách dùng GitLab là ra cả đống bài hướng dẫn luôn.
+
