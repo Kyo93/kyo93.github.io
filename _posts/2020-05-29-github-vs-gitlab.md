@@ -19,3 +19,10 @@ Chưa hết, bạn còn muốn biết rằng file này do ai chỉnh sửa, sử
 
 ![Github vs Gitlab](https://kyo93.github.io\assets\img\4890110_github_pull.jpg){: .mx-auto.d-block :}
 
+Để giải quyết vấn đề này, người ta dùng Git. Git sẽ thay dõi thay đổi của file trong dự án của bạn, bạn có thể biết được ai sửa dòng nào vào lúc nào, dòng code mới thêm vào là phục vụ cho chức năng gì. Git còn hỗ trợ tách nhánh (branch) để khi người ta phát triển các chức năng khác nhau thì không bị xung đột với nhau. Mấy cái chi tiết kĩ thuật này anh em tìm hiểu thêm ở các blog về Git nhé, ở Tinh tế mình chỉ giới thiệu chung chức năng thôi.
+
+Ở tất cả các công ty mình từng dùng qua, người ta đều xài Git. Bạn có thể tự duy trì dịch vụ Git của riêng mình, khi đó bạn phải có server, ổ lưu trữ, phải tự làm nhiều thứ. Còn không thì bạn có thể dùng GitHub hoặc GitLab, hai dịch vụ Git online. Bạn có thể lưu trữ code của mình lên GitHub hoặc GitLab và không còn lo về chuyện mất code nữa (giống như việc bạn up file lên Google Drive hay iCloud thì lỡ máy tính có hỏng cũng không lo mất file). Server, ổ đĩa lưu trữ, vận hành, sao lưu... đều có GitHub và GitLab lo.
+
+Hai dịch vụ này cũng cung cấp một giao diện web để bạn xem code hiện tại của mình, xem lại những chỉnh sửa với file, xem lại các lần chỉnh sửa để ra mắt phần mềm... Với các dự án mã nguồn mở, một người nào đấy ở bất kì nơi nào trên thế giới có thể đóng góp tính năng, giúp sửa lỗi vào dự án của bạn. Họ có thể upload code mới lên, bạn sẽ nhận được thông báo, bạn có thể kiểm tra xem code này chạy đúng hay không, rồi chấp nhận đưa code đó vào dự án chính... Những thứ này nếu xài chỉ dùng Git truyền thống thì cực hơn, nếu không có GitHub thì bạn phải tự download mã nguồn về, chỉnh sửa, gửi email qua lại cho chủ nhân của dự án, rồi sau đó lại trộn code với nhau. Cơ bản là cực lắm.
+
+![App pull](https://kyo93.github.io\assets\img\4890121_git_hub_app.jpg){: .mx-auto.d-block :}
