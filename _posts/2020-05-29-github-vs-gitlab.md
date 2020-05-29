@@ -37,3 +37,4 @@ Việc hiểu và biết sử dụng Git là một yêu cầu bắt buộc với
 
 Chúc anh em vui vẻ, rảnh rỗi ở nhà nghịch GitHub hoặc GitLab đi nha. Google cách dùng GitLab là ra cả đống bài hướng dẫn luôn.
 
+Nguồn: https://tinhte.vn/thread/github-gitlab-la-gi.3070892/
